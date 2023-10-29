@@ -738,14 +738,14 @@ a:link {
     color:#b2b07e;
 }
 
-a:active {
+/* a:active {
     color:#a97b0f;
-}
+}*/
 
 a:hover {
     color:#a97b0f;
 }
 
-a:visited {
+/*a:visited {
     color:#b2b07e;
-}
+}*/
